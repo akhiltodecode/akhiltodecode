@@ -48,3 +48,13 @@ Visit his website: https://akhiltodecode.github.io/ <div id="header" align="cent
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
 
+---
+
+### :writing_hand: Few of my contributions & insights:
+[Optimization analysis - A Python package](https://pypi.org/project/optimize-device-analysis/)
+
+[Statistical Analysis on Scorecards](https://mason.gmu.edu/~akeerthi/Proposal_home.html)
+
+[Education Analysis - A Research on its quality](https://mason.gmu.edu/~akeerthi/Proposal_home.html)
+
+
