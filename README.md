@@ -2,7 +2,7 @@
 
 Akhil's a passionate software engineer skilled in QA Automation / Software Development Engineering in Test and has a Master of Science in Data Analytics Engineering from George Mason University. 
 
-With a strong foundation in SDET, QA automation, and data skills, Akhil blends technical prowess with creativity to deliver cutting-edge solutions. Akhil's diverse experience includes proficiency in automation tools such as Robot Framework, Playwright, Selenium, and Cypress, allowing adaptability to any project or environment, pushing boundaries and driving positive change, and consistently going above and beyond, as evidenced by his track record of exceeding expectations and earning accolades at his former workplace.
+With a strong foundation in Softwar Engineering in Test / QA automation, and data skills, Akhil blends technical prowess with creativity to deliver cutting-edge solutions. Akhil's diverse experience includes proficiency in automation tools such as Robot Framework, Playwright, Selenium, and Cypress, allowing adaptability to any project or environment, pushing boundaries and driving positive change, and consistently going above and beyond, as evidenced by his track record of exceeding expectations and earning accolades at his former workplace.
 
 Akhil's excelled in data cleaning, statistical analysis, and ETL, working on tools like Tableau, Power-BI, R Studio, Python scripting, and creating data model solutions. Seeking opportunities to contribute to data-driven decision-making and deliver efficient technological solutions as a software development engineer in Test
 
