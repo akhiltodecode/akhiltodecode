@@ -50,7 +50,7 @@ Visit his website: https://akhiltodecode.github.io/ <div id="header" align="cent
 
 ---
 
-### :writing_hand: Few of my contributions & insights:
+### :writing_hand: Few of my publications & insights:
 [Optimization analysis - A Python package](https://pypi.org/project/optimize-device-analysis/)
 
 [Statistical Analysis on Scorecards](https://mason.gmu.edu/~akeerthi/Proposal_home.html)
