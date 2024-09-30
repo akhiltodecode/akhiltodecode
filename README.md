@@ -12,14 +12,7 @@ Visit his website: https://akhiltodecode.github.io/ <div id="header" align="cent
 
 
 ### Let's Connect
-<div id="badges">
-  <a href="akhileshkeerthi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="akhileshkeerthi@gmail.com"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akhilesh-keerthi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-Badge"/>
-  </a>
-</div>
+
 
 ### Here's my Tech-Stack:
 [![Databricks](https://img.shields.io/badge/Databricks-FF5733?style=flat&logo=databricks&logoColor=white)](https://databricks.com/)
