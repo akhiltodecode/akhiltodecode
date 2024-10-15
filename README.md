@@ -4,7 +4,7 @@ Akhil's a passionate software engineer skilled in QA Automation / Software Engin
 
 With a strong foundation in Software Engineering in Test / QA automation, and data skills, Akhil blends technical prowess with creativity to deliver cutting-edge solutions. Akhil's diverse experience includes proficiency in automation tools such as Robot Framework, Playwright, Selenium, and Cypress, allowing adaptability to any project or environment, pushing boundaries and driving positive change, and consistently going above and beyond, as evidenced by his track record of exceeding expectations and earning accolades at his former workplace.
 
-Akhil's excelled as a SET | SDET | QA Automation Engineer
+Akhil excelled as a SET | SDET | QA Automation Engineer
 
 Visit his website: https://akhiltodecode.github.io/ <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
