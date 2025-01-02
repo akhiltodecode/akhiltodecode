@@ -1,10 +1,10 @@
-# Hey Techies, I'm Akhil 
+# Hey Techies, I'm Akhil, a passionate data enthusiast with a Master's degree in Data Analytics and Engineering. My journey in the world of data science and machine learning revolves around turning raw data into actionable insights and innovative solutions.
 
-Akhil's a passionate software engineer skilled in QA Automation / Software Engineering in Test and has a Master of Science in Data Analytics Engineering from George Mason University. 
+I enjoy exploring the vast potential of algorithms and models to solve real-world problems, from predictive analytics to natural language processing. Whether it’s building intelligent systems, crafting clean and efficient code, or visualizing data to tell compelling stories, my goal is to create impactful projects that make a difference.
 
-With a strong foundation in Software Engineering in Test / QA automation, and data skills, Akhil blends technical prowess with creativity to deliver cutting-edge solutions. Akhil's diverse experience includes proficiency in automation tools such as Robot Framework, Playwright, Selenium, and Cypress, allowing adaptability to any project or environment, pushing boundaries and driving positive change, and consistently going above and beyond, as evidenced by his track record of exceeding expectations and earning accolades at his former workplace.
+Feel free to explore my repositories, where you’ll find projects showcasing my skills in data wrangling, model building, and machine learning experimentation
 
-Akhil excelled as a SET | SDET | QA Automation Engineer
+Akhil excelled as DA and ML Engineer
 
 Visit his website: https://akhiltodecode.github.io/ <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
@@ -16,14 +16,6 @@ Visit his website: https://akhiltodecode.github.io/ <div id="header" align="cent
 
 ### Here's my Tech-Stack:
 [![Databricks](https://img.shields.io/badge/Databricks-FF5733?style=flat&logo=databricks&logoColor=white)](https://databricks.com/)
-[![TestAutomation](https://img.shields.io/badge/Test%20Automation-00C300?style=flat)](https://en.wikipedia.org/wiki/Test_automation)
-[![QAAutomation](https://img.shields.io/badge/QA%20Automation-00C300?style=flat)](https://en.wikipedia.org/wiki/Test_automation)
-[![SDET](https://img.shields.io/badge/SDET-00C300?style=flat)](https://en.wikipedia.org/wiki/Software_development_engineer_in_test)
-[![Playwright](https://img.shields.io/badge/Playwright-57e8e5?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![RobotFramework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)](https://robotframework.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
