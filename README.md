@@ -1,4 +1,6 @@
-# Hey Techies, I'm Akhil, a passionate data enthusiast with a Master's degree in Data Analytics and Engineering. My journey in the world of data science and machine learning revolves around turning raw data into actionable insights and innovative solutions.
+# Hey Techies, I'm Akhil, 
+
+As a passionate data enthusiast with a Master's degree in Data Analytics and Engineering, my journey in the world of data science and machine learning revolves around turning raw data into actionable insights and innovative solutions.
 
 I enjoy exploring the vast potential of algorithms and models to solve real-world problems, from predictive analytics to natural language processing. Whether it’s building intelligent systems, crafting clean and efficient code, or visualizing data to tell compelling stories, my goal is to create impactful projects that make a difference.
 
