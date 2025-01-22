@@ -1,14 +1,16 @@
 # Hey Techies, I'm Akhil, 
 
-As a passionate data enthusiast with a Master's degree in Data Analytics and Engineering, my journey in the world of data science and machine learning revolves around turning raw data into actionable insights and innovative solutions.
+As a passionate Python automation engineer, my journey in the world of automation and software development is driven by a desire to streamline processes, improve system efficiency, and create solutions that simplify complex tasks.
 
-I enjoy exploring the vast potential of algorithms and models to solve real-world problems, from predictive analytics to natural language processing. Whether it’s building intelligent systems, crafting clean and efficient code, or visualizing data to tell compelling stories, my goal is to create impactful projects that make a difference.
+I thrive in building scalable, maintainable automation scripts and systems that enhance productivity, reduce manual intervention, and optimize workflows. Whether it's developing intelligent bots, automating repetitive tasks, or integrating systems using APIs, my focus is on delivering clean, efficient code that saves time and resources.
 
-Feel free to explore my repositories, where you’ll find projects showcasing my skills in data wrangling, model building, and machine learning experimentation
+Feel free to explore my repositories, where you'll find projects showcasing my skills in task automation, scripting, and creating end-to-end solutions using Python.
 
-Akhil excelled as DA and ML Engineer
+Akhil excels as a Python automation engineer, leveraging automation tools to improve system efficiency and operational workflows.
 
-Visit his website: https://akhiltodecode.github.io/ <div id="header" align="center">
+
+
+]<div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 
