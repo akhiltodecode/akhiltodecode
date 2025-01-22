@@ -40,8 +40,6 @@ Akhil excels as a Python automation engineer, leveraging automation tools to imp
 ### :writing_hand: Few of my publications & insights:
 [Optimization analysis - A Python package](https://pypi.org/project/optimize-device-analysis/)
 
-[Statistical Analysis on Scorecards](https://mason.gmu.edu/~akeerthi/Proposal_home.html)
 
-[Education Analysis - A Research on its quality](https://mason.gmu.edu/~akeerthi/Proposal_home.html)
 
 
